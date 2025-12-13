@@ -1,0 +1,24 @@
+{
+  "name": "trivia-cli",
+  "version": "1.0.0",
+  "description": "NBA Trivia CLI Game - Test your basketball knowledge!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "trivia",
+    "nba",
+    "cli",
+    "game",
+    "basketball"
+  ],
+  "author": "Shobinn Clark", 
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
